@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bluepool Forex Traders</title>
+</head>
+<body>
+    <h1>Welcome to Bluepool Forex Traders!</h1>
+    <p>Learn Forex trading and join our community.</p>
+    <p>Join here: <a href="https://justmarket.link/YOURLINK">JustMarket Link</a></p>
+</body>
+</html>
